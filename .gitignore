@@ -11,10 +11,3 @@ dump.bin
 
 # temporales de las pruebas
 tests/.tmp/
-
-# archivos auxiliares de latex
-informe/*.aux
-informe/*.log
-informe/*.out
-informe/tectonic
-informe/.tectonic-cache/

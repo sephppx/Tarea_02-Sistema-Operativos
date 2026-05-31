@@ -152,6 +152,5 @@ gcc -Wall -Wextra -std=c17 -fsanitize=thread -g src/*.c -o cmatch_tsan -lpthread
 | `src/snapshot.c`   | guarda y recupera el estado |
 | `src/main.c`       | el arranque, el manejo de `Ctrl+C`, la consola y el cierre ordenado |
 | `tests/`           | las pruebas (`run_tests.sh` y `test_elo.c`) |
-| `informe/`         | el informe en LaTeX y su PDF |
 # Tarea_02-Sistema-Operativos
 # Tarea_02-Sistema-Operativos
