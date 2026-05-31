@@ -1,0 +1,20 @@
+# basura de macos
+.DS_Store
+
+# binarios y objetos
+cmatch
+*.o
+
+# snapshots generados en ejecucion
+dump.bin
+*.bin
+
+# temporales de las pruebas
+tests/.tmp/
+
+# archivos auxiliares de latex
+informe/*.aux
+informe/*.log
+informe/*.out
+informe/tectonic
+informe/.tectonic-cache/

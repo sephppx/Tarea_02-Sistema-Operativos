@@ -154,3 +154,4 @@ gcc -Wall -Wextra -std=c17 -fsanitize=thread -g src/*.c -o cmatch_tsan -lpthread
 | `tests/`           | las pruebas (`run_tests.sh` y `test_elo.c`) |
 | `informe/`         | el informe en LaTeX y su PDF |
 # Tarea_02-Sistema-Operativos
+# Tarea_02-Sistema-Operativos
